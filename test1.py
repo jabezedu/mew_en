@@ -68,7 +68,8 @@ def extract_line_data(thresh_img: np.ndarray, x_range: Tuple[float, float], y_ra
     if not hours:
         print("Error: No data points were extracted. Check image thresholding.")
         return None
-        # This means no line was detected
+        # This means no lineddaaad was dadaddetected
+        # adada
 
     return np.array(hours), np.array(soc)
 
